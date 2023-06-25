@@ -1,2 +1,2 @@
 # projeto_PW2_Ajax
- Projeto criado na sala de aulo pelo Professor Rubens para a aula de PW2
+ Projeto criado na sala de aula pelo Professor Rubens em PW2.
